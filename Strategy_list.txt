@@ -1,0 +1,32 @@
+V40(large cap and mid cap) and V40Next(mid cap and small cap) 
+https://docs.google.com/spreadsheets/d/16UDmwd0SNWK85rmpE3R4NLmsmGD_dQ4zojSrfyQYUag/edit?usp=sharing
+
+Large cap: top 100 companies based out of market capatlization
+Mid cap: Next 150 companies after large cap are called Mid cap
+Small cap: rest all belogs to small cap
+condition:
+1: These companies should be market leader of their sector by sales and net profit, these companies should be either number one or number two or maximum number three in its sector.
+2: Companies should be in business for last 15-20 years
+3: Companies should be debt free(almost)
+4: Companies should have good future growth prospect in next 10-15-20 year, low penetration
+5: Companies must have pricing power, means companies should be in posn to increase the prices in case their is raise in raw material or manufactoring. Pricing power means brand value.
+6: Companies should not be government company.
+
+V200 link: 
+https://www.screener.in/screens/339103/v200/ > not applicable to finance/ banking companies.
+1: Companies must have more than 200 cr of net profit during last 12 month
+2: ROCE(return on capital employed) should be more than 20%.
+3: Debt equity ratio should be less than 0.25, means company should have less 25% debt.
+
+For banking and finance companies
+Bank: https://www.screener.in/company/compare/00000006/?sort=return+on+equity&order=desc&limit=50
+Finance: https://www.screener.in/company/compare/00000026/?sort=net+profit+preceding+12months&order=desc
+1: Companies must have more than 200 cr of net profit during last 12 month
+2: ROE(return on equity) should be more than 10%.
+
+
+1: Simple Moving Average Strategy
+https://chartink.com/screener/vivek-singhal-v40-sma-strategy
+
+2: V20
+https://chartink.com/screener/copy-copy-vivek-singhal-01
